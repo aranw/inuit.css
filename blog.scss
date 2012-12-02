@@ -75,6 +75,10 @@ h1, h2, h3, h4, h5, h6{
     margin-bottom: 0;
 }
 
+.post__header--link, .post .go {
+	color: $color;
+}
+
 .post__posted {
     display: block;
     margin-bottom: 20px;
