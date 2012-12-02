@@ -4,8 +4,6 @@
 *.swp
 *.swo
 
-# We don’t want to bundle any compiled CSS...
-*.css
 # ...but still track inuit.css
 !inuit.css/
 
